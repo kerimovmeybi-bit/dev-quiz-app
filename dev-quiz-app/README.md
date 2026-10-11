@@ -1,16 +1,45 @@
-# React + Vite
+# 🧠 Dev Quiz App
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+Интерактивное веб-приложение для проверки знаний в области фронтенд-разработки (React, JavaScript, Web). Создано как пет-проект для демонстрации навыков разработки на React.
 
-Currently, two official plugins are available:
+![React](https://img.shields.io/badge/React-18-blue?style=for-the-badge&logo=react)
+![Vite](https://img.shields.io/badge/Vite-5-purple?style=for-the-badge&logo=vite)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-3-38BDF8?style=for-the-badge&logo=tailwindcss)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## 🚀 Ссылки
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* 🌐 **Live Demo:** [https://dev-quiz-app-three.vercel.app](https://vercel.com/kerimovmeybi-bits-projects)
+* 🐙 **GitHub Repository:** [https://github.com/kerimovmeybi-bit/dev-quiz-app](https://github.com/kerimovmeybi-bit/dev-quiz-app)
 
-## Expanding the Oxlint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+## ✨ Особенности и функционал
+
+* 📝 **10 актуальных вопросов** по React и JavaScript.
+* 📊 **Динамический прогресс-бар** прохождения викторины.
+* 🎯 **Автоматическая система рангов** на основе результатов:
+  * 👶 **Junior** (0–4 баллов)
+  * 💻 **Middle** (5–8 баллов)
+  * 🔥 **Senior** (9–10 баллов)
+* 🎨 **Современный UI** с кастомными анимациями на Tailwind CSS.
+* 📱 **Адаптивный дизайн** для мобильных устройств и десктопа.
+* 🔗 **Интегрированный блок контактов** разработчика.
+
+---
+
+## 🛠️ Технологический стек
+
+* **Frontend:** React.js
+* **Сборщик:** Vite
+* **Стилизация:** Tailwind CSS
+* **Деплой:** Vercel
+
+---
+
+## 💻 Локальный запуск проекта
+
+1. Клонируйте репозиторий:
+   ```bash
+   git clone [https://github.com/mey6i/dev-quiz-app.git](https://github.com/mey6i/dev-quiz-app.git)

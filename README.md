@@ -6,6 +6,9 @@ React Vite TailwindCSS
 🚀 Ссылки
 🌐 Live Demo: https://dev-quiz-app-three.vercel.app
 🐙 GitHub Repository: https://github.com/kerimovmeybi-bit/dev-quiz-app
+
+
+
 ✨ Особенности и функционал
 📝 10 актуальных вопросов по React и JavaScript.
 📊 Динамический прогресс-бар прохождения викторины.
@@ -16,11 +19,17 @@ React Vite TailwindCSS
 🎨 Современный UI с кастомными анимациями на Tailwind CSS.
 📱 Адаптивный дизайн для мобильных устройств и десктопа.
 🔗 Интегрированный блок контактов разработчика.
+
+
+
 🛠️ Технологический стек
 Frontend: React.js
 Сборщик: Vite
 Стилизация: Tailwind CSS
 Деплой: Vercel
+
+
+
 💻 Локальный запуск проекта
 Клонируйте репозиторий:
-git clone [https://github.com/mey6i/dev-quiz-app.git](https://github.com/kerimovmeybi-bit/dev-quiz-app.git)
+git clone [https://github.com/kerimovmeybi-bit/dev-quiz-app.git](https://github.com/kerimovmeybi-bit/dev-quiz-app.git)
